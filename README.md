@@ -1,5 +1,5 @@
 Hello, my goal is to create some poe tools in the future, but realisticly I will probably be working on IoT- and Embedded projects in the near future.
-currently learning c++, c, python.
+Currently learning c++, c, python.
 
 
 <!---
